@@ -1,0 +1,8 @@
+print("==============================")
+valorA = float(input("Digite o valor de A: "))
+valorB = float(input("Digite o valor de B: "))
+valorC = float(input("Digite o valor de C: "))
+delta = (valorB * valorB) + (4 * valorA * valorC)
+print("==============================")
+print("O valor de delta é " + str(delta))
+print("==============================")
