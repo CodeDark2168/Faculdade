@@ -1,0 +1,7 @@
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\bin\Debug\exercicio01.exe
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\bin\Debug\exercicio01.pdb
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\obj\Debug\exercicio01.csproj.AssemblyReference.cache
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\obj\Debug\exercicio01.csproj.CoreCompileInputs.cache
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+D:\Faculdade\Semestre - 1\Microinformática\Aula [01]\exercicio01\exercicio01\obj\Debug\exercicio01.pdb
