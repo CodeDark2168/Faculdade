@@ -1,0 +1,7 @@
+print("==============================")
+nome = input("Digite seu nome: ")
+nomeDoMeio = input("Digite seu nome do meio: ")
+sobrenome = input("Digite seu sobrenome: ")
+print("==============================")
+print("Seu nome completo é " + nome + " " + nomeDoMeio + " " + sobrenome)
+print("==============================")

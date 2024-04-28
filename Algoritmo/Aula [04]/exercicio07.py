@@ -1,0 +1,15 @@
+import math
+
+print("==============================")
+valorA = int(input("Digite o valor de A: "))
+valorB = int(input("Digite o valor de B: "))
+valorC = int(input("Digite o valor de C: "))
+valorD = int(input("Digite o valor de D: "))
+x = math.pow(valorA, 2) - math.sqrt(math.pow(valorB, 2))
+y = math.pow(valorC, 2) + math.sqrt(math.pow(valorD, 2))
+calculo = math.sqrt(math.pow(x + y, 2))
+print("==============================")
+print("O resultado do calculo A² - √B² é " + str(round(x, 2)))
+print("O resultado do calculo C² + √D² é " + str(round(y, 2)))
+print("O resultado do calculo √(x + y)² é " + str(round(calculo, 2)))
+print("==============================")

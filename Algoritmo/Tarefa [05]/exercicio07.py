@@ -1,0 +1,5 @@
+print("==============================")
+custoF = float(input("Informe o custo de fábrica: "))
+custoC = custoF + (custoF*0.28) + (custoF*0.45)
+print("O custo que o consumidor irá pagar será de R$" + str(round(custoC, 2)))
+print("==============================")
