@@ -1,0 +1,16 @@
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.exe
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.deps.json
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.runtimeconfig.json
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.runtimeconfig.dev.json
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.dll
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\bin\Debug\netcoreapp3.1\projeto01.pdb
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.csproj.AssemblyReference.cache
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.Form1.resources
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.csproj.GenerateResource.cache
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.AssemblyInfoInputs.cache
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.AssemblyInfo.cs
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.csproj.CoreCompileInputs.cache
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.dll
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.pdb
+D:\Faculdade\Semestre 1\Microinformática\Aula [03]\projeto01\obj\Debug\netcoreapp3.1\projeto01.genruntimeconfig.cache
