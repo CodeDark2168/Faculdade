@@ -1,0 +1,10 @@
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 04\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
