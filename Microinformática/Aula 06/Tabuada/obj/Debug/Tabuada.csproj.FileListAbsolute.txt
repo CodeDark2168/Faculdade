@@ -1,0 +1,10 @@
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\0220482412024\OneDrive - Fatec Centro Paula Souza\Semestre 1\Microinformática\Aula 06\Tabuada\obj\Debug\Tabuada.pdb
